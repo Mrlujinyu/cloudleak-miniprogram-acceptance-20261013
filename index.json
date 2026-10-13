@@ -1,0 +1,14 @@
+{
+  "packages": [
+    {
+      "appid": "wx6e8a52e191d39752",
+      "version": "0.1.0",
+      "name": "CloudLeak inert source connectivity acceptance",
+      "download_url": "https://raw.githubusercontent.com/Mrlujinyu/cloudleak-miniprogram-acceptance-20261013/974c1ae19588c3b523372b3bf62073a952c76451/wx6e8a52e191d39752-0.1.0.zip",
+      "size": 3414,
+      "sha256": "230e7ad3a8fc9373b826711d708ce23d85f172d24d629f23f924cbfe3a3ef658",
+      "published_at": "2026-10-13T02:55:59Z",
+      "tenant_owned": true
+    }
+  ]
+}
