@@ -1,0 +1,17 @@
+{
+  "packages": [
+    {
+      "package": "cn.cloudleak.acceptance",
+      "version_code": 1,
+      "version_name": "1.0",
+      "download_url": "https://raw.githubusercontent.com/Mrlujinyu/cloudleak-miniprogram-acceptance-20261013/1f8ed902e716b7ca629c6a4cdd57165aef19ed76/cloudleak-acceptance-1.apk",
+      "size": 8672,
+      "sha256": "62c53afaae12d612d80e1bd00cca17c047a36dc5279ec59dc0930b9d4f0a38f4",
+      "published_at": "2026-10-16T09:33:17Z",
+      "tenant_owned": true,
+      "controlled_sample": true,
+      "synthetic": true,
+      "demo_marker": "cloudleak-apk-acceptance-20261016"
+    }
+  ]
+}
