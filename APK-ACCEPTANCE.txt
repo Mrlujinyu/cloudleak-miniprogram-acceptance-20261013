@@ -1,0 +1,10 @@
+CloudLeak Android APK collection acceptance
+Package: cn.cloudleak.acceptance
+Version code: 1
+Built from the included own-source Java Activity using official Android SDK 35.
+Signed APK with binary AndroidManifest.xml and DEX bytecode.
+No credentials. No network permissions. No production leak claim.
+Sample is intended for public distribution and automated collection.
+Source and APK: MIT license, copyright 2026 CloudLeak operator.
+Signing private key and password are excluded.
+Signature verified with apksigner. Device installation was not tested.
